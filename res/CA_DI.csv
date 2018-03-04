@@ -1,0 +1,239 @@
+CITY,B_POP,W_POP,TOTAL_POP,BW_DI,STATE
+Menlo Park city,2124,20452,30785,87.2,CA
+Los Angeles city,401986,1099188,3694820,74.0,CA
+Folsom city,3086,38500,51884,72.5,CA
+Dublin city,2995,18669,29973,64.9,CA
+San Diego city,92830,603892,1223400,63.6,CA
+San Francisco city,58791,338909,776733,62.2,CA
+Long Beach city,66836,152899,461522,60.9,CA
+Richmond city,35279,21081,99216,60.5,CA
+Oakland city,140139,93953,399484,60.2,CA
+Pasadena city,18711,52381,133936,60.1,CA
+Carson city,22485,10767,89730,59.8,CA
+Berkeley city,13707,56691,102743,59.8,CA
+Bell city*,307,2132,36664,57.8,CA
+Gardena city,14701,7064,57746,57.6,CA
+Atascadero city*,603,21850,26411,56.5,CA
+El Centro city,1042,6837,37835,54.9,CA
+San Gabriel city*,360,6930,39804,54.1,CA
+Huntington Park city*,304,1657,61348,51.2,CA
+Hawthorne city,27208,10937,84112,49.7,CA
+Pacifica city,1219,23549,38390,49.4,CA
+Seaside city,3836,11526,31696,49.3,CA
+East Palo Alto city,6641,1930,29506,49.3,CA
+Fresno city,34357,159473,427652,49.1,CA
+Sacramento city,61136,164974,407018,49.1,CA
+Palm Springs city,1621,28474,42807,48.8,CA
+Madera city,1426,10859,43207,48.7,CA
+Montebello city*,395,6911,62150,48.4,CA
+Culver City city,4536,18675,38816,48.3,CA
+Paradise town*,50,24080,26408,48.2,CA
+Maywood city*,43,739,28083,47.7,CA
+Santa Monica city,3081,60482,84084,47.4,CA
+Redwood City city,1791,40656,75402,47.3,CA
+Delano city,1997,3556,38824,47.2,CA
+Bakersfield city,21987,126183,247057,46.6,CA
+Lakewood city,5663,41577,79345,46.4,CA
+Monrovia city,3074,17211,36929,46.1,CA
+Stockton city,26359,78539,243771,45.9,CA
+Whittier city*,838,31475,83680,45.8,CA
+Redlands city,2625,40265,63591,45.6,CA
+San Rafael city,1175,36960,56063,45.4,CA
+San Mateo city,2273,52260,92482,44.5,CA
+San Jose city,29495,322534,894943,44.0,CA
+Paramount city,7184,4982,55266,43.9,CA
+South San Francisco city,1621,18487,60552,43.3,CA
+Chino city,5100,25267,67168,42.8,CA
+San Bernardino city,29654,53630,185401,42.7,CA
+Santa Paula city*,69,7551,28598,42.0,CA
+Downey city,3717,30851,107323,41.9,CA
+El Monte city*,640,8542,115965,41.9,CA
+Fullerton city,2675,61420,126003,41.9,CA
+Monterey Park city*,182,4362,60051,41.7,CA
+Saratoga city*,110,19434,29843,40.9,CA
+Santa Barbara city,1418,53849,92325,40.7,CA
+Alameda city,4350,37921,72259,39.8,CA
+South Gate city*,632,5755,96375,39.7,CA
+West Sacramento city*,737,17271,31615,39.6,CA
+Santee city*,751,42803,52975,39.3,CA
+Orange city,1798,70292,128821,39.2,CA
+Torrance city,2911,72234,137946,39.1,CA
+Santa Rosa city,3023,104581,147595,39.1,CA
+Rosemead city*,262,4295,53505,39.0,CA
+Alhambra city,1255,11881,85804,38.5,CA
+Salinas city,4569,36535,151060,37.8,CA
+Newport Beach city*,354,62342,70032,37.8,CA
+Tustin city,1785,30264,67504,37.5,CA
+Upland city,4990,37456,68393,37.4,CA
+Irvine city,1977,81613,143072,37.3,CA
+Lompoc city,2887,19696,41103,37.2,CA
+Martinez city,1181,27096,35866,37.2,CA
+Merced city,3864,24121,63893,37.2,CA
+Colton city,5031,9911,47662,37.0,CA
+Pico Rivera city*,313,4914,63428,37.0,CA
+Inglewood city,52260,4628,112580,36.9,CA
+Escondido city,2734,69305,133559,36.9,CA
+Hanford city,1989,20794,41686,36.6,CA
+San Buenaventura (Ventura) cit,1284,68710,100916,36.5,CA
+Tulare city,2051,19276,43994,36.4,CA
+Ceres city*,889,17361,34609,36.3,CA
+Lodi city*,260,36200,56999,36.3,CA
+El Cajon city,4828,61188,94869,36.0,CA
+Fountain Valley city*,584,32144,54978,35.9,CA
+Costa Mesa city,1313,61778,108724,35.9,CA
+Vacaville city,8691,56031,88625,35.7,CA
+Concord city,3530,74119,121780,35.4,CA
+Vista city,3535,44844,89857,35.2,CA
+Vallejo city,27201,35533,116760,35.2,CA
+Anaheim city,7939,117607,328014,35.1,CA
+Santa Ana city,4309,41984,337977,34.6,CA
+Pleasant Hill city*,493,25139,32837,34.4,CA
+Marina city,3494,9500,25101,34.0,CA
+West Covina city,6314,24124,105080,34.0,CA
+Oceanside city,9504,86310,161029,34.0,CA
+Garden Grove city,1873,53735,165196,33.9,CA
+Highland city,5226,18619,44605,33.8,CA
+Santa Maria city,1246,24742,77423,33.8,CA
+Napa city*,304,49536,72585,33.7,CA
+Claremont city,1642,22098,33998,33.7,CA
+Riverside city,18051,116254,255166,33.7,CA
+San Juan Capistrano city*,151,21084,33826,33.5,CA
+Glendale city,2230,105597,194973,33.5,CA
+San Leandro city,7622,33646,79452,33.4,CA
+Pomona city,13834,25348,149473,33.2,CA
+Modesto city,7013,112466,188856,33.2,CA
+Sunnyvale city,2790,61221,131760,33.0,CA
+Huntington Beach city,1383,136237,189594,32.9,CA
+Los Gatos town*,217,23821,28592,32.9,CA
+Arcadia city*,574,21259,53054,32.6,CA
+Campbell city*,932,25168,38138,32.6,CA
+Cypress city,1251,26400,46229,32.6,CA
+Poway city*,752,37092,48044,32.6,CA
+Imperial Beach city,1343,11737,26992,32.5,CA
+Compton city,37263,954,93493,32.4,CA
+Porterville city*,406,16649,39615,32.4,CA
+Visalia city,1558,50269,91565,32.2,CA
+Covina city,2245,19801,46837,32.1,CA
+San Marcos city,1001,29617,54977,32.1,CA
+La Mesa city,2561,40371,54749,32.1,CA
+Turlock city*,728,33717,55810,32.0,CA
+Buena Park city,2826,29885,78282,31.7,CA
+Monterey city*,716,22246,29674,31.7,CA
+Brea city*,409,23541,35410,31.6,CA
+Placentia city*,746,24967,46488,31.5,CA
+Palo Alto city,1166,42682,58598,31.3,CA
+Burbank city,1915,59590,100316,31.3,CA
+Indio city,1199,9586,49116,31.3,CA
+Cathedral City city,1049,17908,42647,31.1,CA
+Pittsburg city,10457,17697,56769,31.1,CA
+Bell Gardens city*,251,2085,44054,31.1,CA
+Norwalk city,4529,19574,103298,31.0,CA
+Lynwood city,9118,2044,69845,30.9,CA
+Antioch city,8551,50644,90532,30.9,CA
+San Clemente city*,320,39155,49936,30.8,CA
+Watsonville city*,206,8574,44265,30.4,CA
+Walnut Creek city*,666,51834,64296,30.4,CA
+Carlsbad city*,691,63013,78247,30.3,CA
+Mission Viejo city,1032,70735,93102,30.2,CA
+Laguna Niguel city*,723,47916,61891,30.2,CA
+Bellflower city,9239,22403,72878,30.0,CA
+Chula Vista city,7517,55042,173556,29.9,CA
+Daly City city,4482,18344,103621,29.7,CA
+Cupertino city*,319,24181,50546,29.6,CA
+San Bruno city*,753,18822,40165,29.6,CA
+Mountain View city,1674,39029,70708,29.5,CA
+Clovis city,1207,46186,68468,29.3,CA
+National City city,2823,7653,54260,29.3,CA
+Los Altos city*,127,21656,27693,28.9,CA
+Walnut city,1237,5463,30004,28.9,CA
+Stanton city*,721,11295,37403,28.8,CA
+Hemet city,1407,41345,58812,28.6,CA
+Ontario city,11317,42048,158007,28.4,CA
+Woodland city*,527,26064,49151,28.4,CA
+Santa Clarita city,2957,104646,151088,28.2,CA
+Santa Clara city,2237,49392,102361,28.1,CA
+Chico city,1174,46258,59954,28.0,CA
+Manhattan Beach city*,206,28913,33852,28.0,CA
+Oxnard city,5923,35049,170358,28.0,CA
+Glendora city*,704,33564,49415,27.9,CA
+Dana Point city*,252,27658,35110,27.9,CA
+Burlingame city*,266,20063,28158,27.9,CA
+Baldwin Park city,1071,5508,75837,27.8,CA
+Rialto city,19954,19713,91873,27.7,CA
+Rancho Cucamonga city,9789,70028,127743,27.7,CA
+La Verne city*,975,20129,31638,27.4,CA
+Fontana city,14629,30865,128929,27.4,CA
+Fremont city,6084,84149,203413,27.3,CA
+Lancaster city,18548,62256,118718,27.2,CA
+Milpitas city,2187,14917,62698,26.9,CA
+Montclair city,1986,7784,33049,26.9,CA
+Petaluma city*,581,41996,54548,26.4,CA
+Pleasanton city*,845,48253,63654,26.4,CA
+Westminster city*,764,31962,88207,26.3,CA
+Lawndale city,3852,6946,31711,26.2,CA
+Yorba Linda city*,638,44071,58918,26.1,CA
+San Luis Obispo city*,594,34756,44174,26.0,CA
+Eureka city*,399,20548,26128,26.0,CA
+Santa Cruz city*,871,39304,54593,25.9,CA
+Calexico city*,37,642,27109,25.8,CA
+Palm Desert city*,446,31919,41155,25.8,CA
+Lake Forest city*,998,39161,58707,25.7,CA
+Hayward city,14846,40896,140030,25.4,CA
+Azusa city,1576,10824,44712,25.3,CA
+Camarillo city*,802,41543,57077,25.2,CA
+Redding city*,828,69293,80865,25.2,CA
+Fairfield city,14097,47094,96178,25.1,CA
+Corona city,7704,58784,124966,25.0,CA
+La Habra city*,808,24399,58974,25.0,CA
+San Carlos city*,193,22234,27718,24.9,CA
+Laguna Hills city*,404,21471,31178,24.6,CA
+Los Banos city,1007,10290,25869,24.6,CA
+Livermore city,1094,54587,73345,24.5,CA
+Redondo Beach city,1531,44819,63261,24.5,CA
+Palmdale city,16447,47831,116670,24.3,CA
+Morgan Hill city*,537,20583,33556,23.5,CA
+Temple City city*,289,12589,33377,23.3,CA
+Thousand Oaks city,1162,90862,117005,23.2,CA
+Belmont city*,389,17696,25123,23.1,CA
+Rohnert Park city*,799,31266,42236,22.7,CA
+Temecula city,1874,40007,57716,22.6,CA
+Yucaipa city*,353,31626,41207,22.5,CA
+Chino Hills city,3573,29247,66787,22.4,CA
+Novato city*,893,36336,47630,22.3,CA
+San Dimas city,1114,21381,34980,22.2,CA
+Perris city,5574,8243,36189,22.2,CA
+Moreno Valley city,27536,45881,142381,22.2,CA
+Apple Valley town,4141,36710,54239,21.9,CA
+Simi Valley city,1348,80908,111351,21.9,CA
+Danville town*,375,34618,41715,21.7,CA
+Rancho Santa Margarita city*,787,35132,47214,21.4,CA
+Citrus Heights city,2334,67809,85071,21.3,CA
+La Puente city*,688,2749,41063,20.9,CA
+Yuba City city*,976,21693,36758,20.8,CA
+Manteca city,1336,31556,49258,20.6,CA
+Gilroy city*,615,15767,41464,20.5,CA
+Encinitas city*,302,45852,58014,20.4,CA
+Union City city,4321,13610,66869,20.3,CA
+San Pablo city,5403,4886,30215,19.6,CA
+Rocklin city*,317,30315,36330,19.3,CA
+Davis city,1354,39714,60308,19.3,CA
+Roseville city*,992,63737,79921,19.2,CA
+Hesperia city,2388,39057,62582,18.9,CA
+Benicia city,1253,19853,26865,18.9,CA
+Rancho Palos Verdes city*,803,25979,41145,18.7,CA
+Oakley city*,832,16469,25619,18.6,CA
+Tracy city,2976,30723,56929,18.2,CA
+Newark city,1639,17103,42471,18.0,CA
+Beverly Hills city*,584,27717,33784,17.9,CA
+La Mirada city*,851,22058,46783,17.5,CA
+Suisun City city,4904,10091,26118,17.5,CA
+West Hollywood city,1033,29064,35716,17.5,CA
+Moorpark city*,435,19611,31415,17.2,CA
+Lake Elsinore city,1434,14877,28928,14.7,CA
+Hollister city*,387,13246,34413,14.6,CA
+San Ramon city*,842,32356,44722,14.5,CA
+Diamond Bar city,2624,17471,56287,13.6,CA
+Victorville city,7431,30382,64029,13.3,CA
+Foster City city*,595,16090,28803,13.3,CA
+Cerritos city,3386,11040,51488,9.1,CA
+Murrieta city,1401,31811,44282,8.9,CA

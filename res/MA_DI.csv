@@ -1,0 +1,42 @@
+CITY,B_POP,W_POP,TOTAL_POP,BW_DI,STATE
+Boston city,140305,291561,589141,75.8,MA
+Springfield city,29831,74291,152082,51.4,MA
+Cambridge city,11627,65425,101355,49.6,MA
+Medford city,3324,47403,55765,49.2,MA
+Barnstable Town city,1271,43443,47821,49.2,MA
+Pittsfield city,1592,41951,45793,48.3,MA
+Beverly city*,391,37781,39862,47.6,MA
+New Bedford city,3503,70520,93768,45.5,MA
+Fall River city,2097,82274,91938,45.1,MA
+Salem city*,966,33277,40407,44.5,MA
+Worcester city,10762,122211,172648,44.3,MA
+Revere city,1248,37530,47283,44.1,MA
+Lynn city,8165,55630,89050,43.7,MA
+Chicopee city,1078,47478,54653,42.3,MA
+Holyoke city,1016,21508,39838,41.1,MA
+Westfield city*,323,36893,40072,41.1,MA
+Quincy city,1846,68980,88025,41.0,MA
+Gloucester city*,159,29117,30273,40.9,MA
+Melrose city*,246,25640,27134,37.6,MA
+Northampton city*,544,25433,28978,37.5,MA
+Leominster city,1255,33673,41303,37.5,MA
+Somerville city,4868,56320,77478,37.2,MA
+Franklin city*,305,28165,29560,36.6,MA
+Peabody city*,396,44466,48129,36.5,MA
+Fitchburg city,1209,29414,39102,35.9,MA
+Waltham city,2484,46416,59226,34.8,MA
+Methuen city*,406,37561,43789,34.2,MA
+Attleboro city*,665,37467,42068,33.8,MA
+Lawrence city,1412,24569,72043,33.8,MA
+Lowell city,3644,65760,105167,33.8,MA
+Taunton city,1366,50272,55976,33.6,MA
+Woburn city*,644,33176,37258,33.5,MA
+Haverhill city,1110,50912,58969,32.8,MA
+Brockton city,15913,54902,94304,32.3,MA
+Newton city,1584,72388,83829,31.8,MA
+Malden city,4468,39230,56340,28.9,MA
+Watertown city*,556,29591,32986,27.6,MA
+Agawam city*,249,26871,28144,26.7,MA
+Chelsea city,1971,13424,35080,26.2,MA
+Marlborough city*,724,30778,36255,22.4,MA
+Everett city,2269,28587,38037,22.0,MA

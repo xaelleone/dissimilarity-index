@@ -1,0 +1,34 @@
+CITY,B_POP,W_POP,TOTAL_POP,BW_DI,STATE
+Newark city,142083,38950,273546,80.9,NJ
+Kearny town,1442,24425,40513,79.4,NJ
+Trenton city,43497,21022,85403,69.3,NJ
+Englewood city,9887,8389,26203,68.9,NJ
+Atlantic City city,17168,7878,40517,67.4,NJ
+Linden city,8782,22827,39394,66.4,NJ
+Paterson city,46882,19765,149222,66.0,NJ
+Jersey City city,64389,56736,240055,65.5,NJ
+Westfield town,1137,26047,29644,63.1,NJ
+New Brunswick city,10043,15964,48573,61.7,NJ
+Elizabeth city,22329,32338,120568,59.6,NJ
+Long Branch city,5471,17831,31340,59.0,NJ
+Rahway city,7058,14099,26500,58.5,NJ
+Passaic city,8042,12405,67861,57.8,NJ
+Sayreville borough,3334,29068,40377,55.5,NJ
+Hoboken city,1299,27196,38577,55.1,NJ
+Camden city,39753,5671,79904,53.3,NJ
+Bayonne city,3098,43217,61842,48.6,NJ
+Vineland city,6885,30842,56271,48.1,NJ
+Millville city,3851,19215,26847,47.3,NJ
+Paramus borough*,278,19433,25737,46.6,NJ
+Clifton city,2002,53206,78672,44.5,NJ
+Hackensack city,10092,17013,42677,43.7,NJ
+Fair Lawn borough*,208,27737,31637,42.2,NJ
+East Orange city,61604,1874,69824,40.7,NJ
+Plainfield city,28698,5508,47829,39.0,NJ
+Fort Lee borough*,555,20350,35461,37.8,NJ
+Perth Amboy city,3790,8919,47303,34.7,NJ
+Garfield city*,778,21560,29786,34.1,NJ
+Bergenfield borough,1665,14165,26247,33.4,NJ
+Union City city*,875,8890,67088,28.7,NJ
+West New York town*,658,7088,45768,24.0,NJ
+Dover township,1490,81093,89706,0.0,NJ

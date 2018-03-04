@@ -1,0 +1,34 @@
+CITY,B_POP,W_POP,TOTAL_POP,BW_DI,STATE
+Minneapolis city,67966,239080,382618,61.3,MN
+Duluth city,1389,80043,86918,54.8,MN
+St. Paul city,32818,183898,287151,52.6,MN
+Rochester city,3034,73656,85806,51.8,MN
+Coon Rapids city,1327,56955,61607,44.4,MN
+Edina city*,527,44367,47425,43.6,MN
+Richfield city,2257,27125,34439,43.1,MN
+St. Cloud city,1378,53857,59107,42.9,MN
+St. Louis Park city,1893,38599,44126,42.0,MN
+Brooklyn Park city,9583,47365,67388,41.7,MN
+Minnetonka city*,754,48067,51301,41.6,MN
+Bloomington city,2854,74008,85172,41.5,MN
+Plymouth city,1751,59565,65894,41.4,MN
+Mankato city*,608,29670,32427,40.3,MN
+Moorhead city*,240,29001,32177,39.9,MN
+Fridley city*,931,24026,27449,39.7,MN
+Inver Grove Heights city*,586,26727,29751,39.6,MN
+Eden Prairie city,1238,49230,54901,39.4,MN
+Winona city*,306,25376,27069,37.8,MN
+Cottage Grove city*,699,28196,30582,36.7,MN
+Roseville city*,928,29831,33690,35.7,MN
+Blaine city*,385,41628,44942,35.1,MN
+Brooklyn Center city,4088,20530,29172,32.4,MN
+Eagan city,2147,55219,63557,32.0,MN
+Maple Grove city*,519,47407,50365,30.0,MN
+Shoreview city*,253,23984,25924,29.4,MN
+Oakdale city*,599,24168,26653,28.6,MN
+Andover city*,135,25477,26588,25.4,MN
+Maplewood city,1215,30602,34947,23.9,MN
+Burnsville city,2433,51952,60220,23.3,MN
+Lakeville city*,544,40226,43128,23.1,MN
+Apple Valley city*,861,41372,45527,21.9,MN
+Woodbury city,1152,41238,46463,19.8,MN
